@@ -1,5 +1,5 @@
 # 👨‍💻 Brijesh | Azure Data Engineer & Cloud Modernization Specialist
-### *Modernizing Legacy On-Premises Data Workloads into Scalable Azure Databricks & Microsoft Fabric Lakehouses*
+### *Modernizing Legacy On-Premises Data Workloads into Modern Cloud Architectures using Microsoft Fabric, Azure Databricks, Azure Data Factory & Power BI*
 
 <div align="center">
 
