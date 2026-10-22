@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Executive Profile & Engineering Background
+## 👤 About Me
 
 I am an **Azure Data Engineer** with a strong background in large-scale relational database systems, high-throughput enterprise ETL pipelines, and cloud lakehouse modernization:
 
