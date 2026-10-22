@@ -1,4 +1,4 @@
-# 👨‍💻 Brijesh Chudasama | Data Engineering → Enabling BI, ML & GenAI
+# 👨‍💻 Brijesh | Data & AI Engineer
 ### *Modernizing Legacy On-Premises Data Workloads into Modern Cloud Architectures using Microsoft Fabric, Azure Databricks, Azure Data Factory & Power BI*
 
 <div align="center">
