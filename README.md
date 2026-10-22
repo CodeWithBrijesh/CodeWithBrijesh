@@ -1,5 +1,5 @@
 # 👨‍💻 Brijesh | Azure Data Engineer & Cloud Modernization Specialist
-### *Modernizing Legacy Enterprise SSIS & SQL Server Workloads into Scalable Azure Databricks & Microsoft Fabric Lakehouses*
+### *Modernizing Legacy On-Premises Data Workloads into Scalable Azure Databricks & Microsoft Fabric Lakehouses*
 
 <div align="center">
 
@@ -17,8 +17,8 @@
 
 I am an **Azure Data Engineer** with a strong background in large-scale relational database systems, high-throughput enterprise ETL pipelines, and cloud lakehouse modernization:
 
-* **Enterprise Roots:** Proven engineering experience at an **Enterprise Healthcare SaaS & Home Care Technology Platform** designing, operating, and modernizing mission-critical healthcare ingestion pipelines (HIPAA EDI 837/835 transactions, T-SQL, SSIS, Secure SFTP/MFT) reconciling **50+ million annual visits** for State Medicaid and Managed Care Payers.
-* **Modern Cloud Focus:** Specializing in migrating legacy on-prem SSIS / SQL Server workloads into the **modern Azure Cloud Lakehouse stack (Azure Data Factory, Azure Databricks Serverless, Delta Lake, Microsoft Fabric OneLake, and Synapse Analytics)**.
+* **Enterprise Roots:** Proven engineering experience at an **Enterprise Healthcare SaaS & Home Care Technology Platform** designing, operating, and modernizing mission-critical healthcare ingestion pipelines (HIPAA EDI 837/835 transactions, Relational Database Staging, Secure SFTP/MFT) reconciling **50+ million annual visits** for State Medicaid and Managed Care Payers.
+* **Modern Cloud Focus:** Specializing in migrating legacy on-premises ETL workloads into the **modern Azure Cloud Lakehouse stack (Azure Data Factory, Azure Databricks Serverless, Delta Lake, Microsoft Fabric OneLake, and Synapse Analytics)**.
 * **Full-Lifecycle Capabilities:** Experienced across the entire data engineering lifecycle:
   - **Medallion Architecture:** Raw $\rightarrow$ Bronze $\rightarrow$ Silver $\rightarrow$ Gold dimensional modeling (Kimball Star Schemas, SCD Type 1 & 2).
   - **Distributed Computing:** PySpark optimizations, data skew mitigation, Delta Lake ACID transactions (`MERGE INTO`), and Z-ORDER / V-ORDER file clustering.
@@ -34,7 +34,7 @@ Below is a fully architected, production-grade cloud platform demonstrating end-
 
 | Pillar | Focus Area | Core Technologies | Live Repository | Key Engineering Highlights |
 | :---: | :--- | :--- | :--- | :--- |
-| **1** | **Azure PaaS Batch Lakehouse** | ADF, Azure Databricks, ADLS Gen2, Delta Lake, Synapse | [**`azure-homecare-edi-modernization`**](https://github.com/CodeWithBrijesh/azure-homecare-edi-modernization) | Migrated legacy SSIS packages into metadata-driven ADF pipelines + PySpark Medallion Lakehouse; Kimball Star Schema. |
+| **1** | **Azure PaaS Batch Lakehouse** | ADF, Azure Databricks, ADLS Gen2, Delta Lake, Synapse | [**`azure-homecare-edi-modernization`**](https://github.com/CodeWithBrijesh/azure-homecare-edi-modernization) | Migrated legacy on-prem ETL pipelines into metadata-driven ADF pipelines + PySpark Medallion Lakehouse; Kimball Star Schema. |
 | **2** | **Fabric SaaS Lakehouse & SCD2** | Microsoft Fabric Spark, OneLake, PySpark, SCD Type 2 | [**`fabric-medicaid-claims-lakehouse`**](https://github.com/CodeWithBrijesh/fabric-medicaid-claims-lakehouse) | Ingests 5,000+ EDI 835 remittances; matches billed visits; isolates CARC denials; maintains SCD Type 2 audit ledger. |
 | **3** | **Real-Time Intelligence (RTI)** | Fabric Eventstream, KQL Eventhouse, Data Activator | [**`fabric-realtime-evv-platform`**](https://github.com/CodeWithBrijesh/fabric-realtime-evv-platform) | Sub-second EVV GPS fraud detection (`geo_distance_2points > 500m`); real-time coordinator push alerts on missed shifts. |
 | **4** | **Enterprise BI & Direct Lake** | Fabric Direct Lake Mode, Power BI VertiPaq, DAX | [**`powerbi-homecare-rcm-command-center`**](https://github.com/CodeWithBrijesh/powerbi-homecare-rcm-command-center) | Zero-copy direct querying of OneLake Parquet tables; executive DAX metrics: Clean Claim Rate %, A/R Aging (0-90+ days). |
