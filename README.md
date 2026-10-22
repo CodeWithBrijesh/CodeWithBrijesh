@@ -17,7 +17,7 @@
 
 I am an **Azure Data Engineer** with a strong background in large-scale relational database systems, high-throughput enterprise ETL pipelines, and cloud lakehouse modernization:
 
-* **Enterprise Roots:** 2+ years of production experience at a **leading Enterprise Healthcare SaaS & Home Care Technology Provider** designing, operating, and troubleshooting mission-critical healthcare EDI pipelines (Single-EDI V5, ImportBilledVisit, HIPAA EDI 837/835, T-SQL, SSIS, JSCAPE MFT) reconciling **50+ million annual visits** for State Medicaid and Managed Care Payers.
+* **Enterprise Roots:** Proven engineering experience at an **Enterprise Healthcare SaaS & Home Care Technology Platform** designing, operating, and modernizing mission-critical healthcare ingestion pipelines (HIPAA EDI 837/835 transactions, T-SQL, SSIS, Secure SFTP/MFT) reconciling **50+ million annual visits** for State Medicaid and Managed Care Payers.
 * **Modern Cloud Focus:** Specializing in migrating legacy on-prem SSIS / SQL Server workloads into the **modern Azure Cloud Lakehouse stack (Azure Data Factory, Azure Databricks Serverless, Delta Lake, Microsoft Fabric OneLake, and Synapse Analytics)**.
 * **Full-Lifecycle Capabilities:** Experienced across the entire data engineering lifecycle:
   - **Medallion Architecture:** Raw $\rightarrow$ Bronze $\rightarrow$ Silver $\rightarrow$ Gold dimensional modeling (Kimball Star Schemas, SCD Type 1 & 2).
@@ -98,7 +98,7 @@ flowchart TD
 | :--- | :--- |
 | **Cloud Platforms** | Microsoft Azure (ADLS Gen2, Azure Data Factory, Synapse Analytics, Key Vault, IAM), Microsoft Fabric (OneLake, Direct Lake, RTI). |
 | **Distributed Data Processing** | Azure Databricks (Serverless Compute, PySpark, Spark SQL, Delta Lake, Unity Catalog, Repos). |
-| **ETL & Data Pipelines** | Azure Data Factory (Pipelines, Copy Activities, Webhooks, Parameterization), SSIS (SQL Server Integration Services), JSCAPE MFT. |
+| **ETL & Data Pipelines** | Azure Data Factory (Pipelines, Copy Activities, Webhooks, Parameterization), SSIS (SQL Server Integration Services), Secure SFTP / MFT Ingestion. |
 | **Data Modeling & Storage** | Kimball Star / Snowflake Schemas, Slowly Changing Dimensions (SCD Type 1 & 2), Delta Lake (`MERGE INTO`, Time Travel, Z-ORDER, V-ORDER). |
 | **Real-Time & Streaming** | Fabric Eventstream, Fabric Eventhouse, KQL (Kusto Query Language), Data Activator (Reflex), Azure Event Hubs. |
 | **Business Intelligence** | Power BI Desktop & Service, Direct Lake Mode, VertiPaq Engine, Tabular Modeling (TMDL/BIM), Advanced DAX, Tabular Editor. |
