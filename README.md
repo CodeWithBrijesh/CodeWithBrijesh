@@ -17,7 +17,7 @@
 
 I am an **Azure Data Engineer** with a strong background in large-scale relational database systems, high-throughput enterprise ETL pipelines, and cloud lakehouse modernization:
 
-* **Enterprise Roots:** 2+ years of production experience at **HHAeXchange** designing, operating, and troubleshooting mission-critical healthcare EDI pipelines (Single-EDI V5, ImportBilledVisit, HIPAA EDI 837/835, T-SQL, SSIS, JSCAPE MFT) reconciling **50+ million annual visits** for State Medicaid and Managed Care Payers.
+* **Enterprise Roots:** 2+ years of production experience at a **leading Enterprise Healthcare SaaS & Home Care Technology Provider** designing, operating, and troubleshooting mission-critical healthcare EDI pipelines (Single-EDI V5, ImportBilledVisit, HIPAA EDI 837/835, T-SQL, SSIS, JSCAPE MFT) reconciling **50+ million annual visits** for State Medicaid and Managed Care Payers.
 * **Modern Cloud Focus:** Specializing in migrating legacy on-prem SSIS / SQL Server workloads into the **modern Azure Cloud Lakehouse stack (Azure Data Factory, Azure Databricks Serverless, Delta Lake, Microsoft Fabric OneLake, and Synapse Analytics)**.
 * **Full-Lifecycle Capabilities:** Experienced across the entire data engineering lifecycle:
   - **Medallion Architecture:** Raw $\rightarrow$ Bronze $\rightarrow$ Silver $\rightarrow$ Gold dimensional modeling (Kimball Star Schemas, SCD Type 1 & 2).
