@@ -4,7 +4,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-CodeWithBrijesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithBrijesh)
+[![GitHub](https://img.shields.io/badge/GitHub-brijesh-chudasama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brijesh-chudasama)
 [![Azure](https://img.shields.io/badge/Azure-Cloud_Data-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-PySpark-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
 [![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-OneLake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://fabric.microsoft.com/)
@@ -34,12 +34,12 @@ Below is a fully architected, production-grade cloud platform demonstrating end-
 
 | Pillar | Focus Area | Core Technologies | Live Repository | Key Engineering Highlights |
 | :---: | :--- | :--- | :--- | :--- |
-| **1** | **Azure PaaS Batch Lakehouse** | ADF, Azure Databricks, ADLS Gen2, Delta Lake, Synapse | [**`azure-homecare-edi-modernization`**](https://github.com/CodeWithBrijesh/azure-homecare-edi-modernization) | Migrated legacy on-prem ETL pipelines into metadata-driven ADF pipelines + PySpark Medallion Lakehouse; Kimball Star Schema. |
-| **2** | **Fabric SaaS Lakehouse & SCD2** | Microsoft Fabric Spark, OneLake, PySpark, SCD Type 2 | [**`fabric-medicaid-claims-lakehouse`**](https://github.com/CodeWithBrijesh/fabric-medicaid-claims-lakehouse) | Ingests 5,000+ EDI 835 remittances; matches billed visits; isolates CARC denials; maintains SCD Type 2 audit ledger. |
-| **3** | **Real-Time Intelligence (RTI)** | Fabric Eventstream, KQL Eventhouse, Data Activator | [**`fabric-realtime-evv-platform`**](https://github.com/CodeWithBrijesh/fabric-realtime-evv-platform) | Sub-second EVV GPS fraud detection (`geo_distance_2points > 500m`); real-time coordinator push alerts on missed shifts. |
-| **4** | **Enterprise BI & Direct Lake** | Fabric Direct Lake Mode, Power BI VertiPaq, DAX | [**`powerbi-homecare-rcm-command-center`**](https://github.com/CodeWithBrijesh/powerbi-homecare-rcm-command-center) | Zero-copy direct querying of OneLake Parquet tables; executive DAX metrics: Clean Claim Rate %, A/R Aging (0-90+ days). |
-| **5** | **MLOps Shift Churn Engine** | Databricks Serverless, MLflow, Delta Feature Store | [**`databricks-caregiver-retention-mlops`**](https://github.com/CodeWithBrijesh/databricks-caregiver-retention-mlops) | Proactive shift no-show & caregiver burnout prediction; point-in-time correct Delta features; registered MLflow model. |
-| **6** | **Clinical Policy GenAI (RAG)** | Azure AI Foundry SLM (Phi-4-mini), ChromaDB, Streamlit | [**`azure-ai-medicaid-policy-rag`**](https://github.com/CodeWithBrijesh/azure-ai-medicaid-policy-rag) | Clinical RN voice copilot; HIPAA PHI sanitization; vector similarity search for Medicaid prior authorization compliance. |
+| **1** | **Azure PaaS Batch Lakehouse** | ADF, Azure Databricks, ADLS Gen2, Delta Lake, Synapse | [**`azure-homecare-edi-modernization`**](https://github.com/brijesh-chudasama/azure-homecare-edi-modernization) | Migrated legacy on-prem ETL pipelines into metadata-driven ADF pipelines + PySpark Medallion Lakehouse; Kimball Star Schema. |
+| **2** | **Fabric SaaS Lakehouse & SCD2** | Microsoft Fabric Spark, OneLake, PySpark, SCD Type 2 | [**`fabric-medicaid-claims-lakehouse`**](https://github.com/brijesh-chudasama/fabric-medicaid-claims-lakehouse) | Ingests 5,000+ EDI 835 remittances; matches billed visits; isolates CARC denials; maintains SCD Type 2 audit ledger. |
+| **3** | **Real-Time Intelligence (RTI)** | Fabric Eventstream, KQL Eventhouse, Data Activator | [**`fabric-realtime-evv-platform`**](https://github.com/brijesh-chudasama/fabric-realtime-evv-platform) | Sub-second EVV GPS fraud detection (`geo_distance_2points > 500m`); real-time coordinator push alerts on missed shifts. |
+| **4** | **Enterprise BI & Direct Lake** | Fabric Direct Lake Mode, Power BI VertiPaq, DAX | [**`powerbi-homecare-rcm-command-center`**](https://github.com/brijesh-chudasama/powerbi-homecare-rcm-command-center) | Zero-copy direct querying of OneLake Parquet tables; executive DAX metrics: Clean Claim Rate %, A/R Aging (0-90+ days). |
+| **5** | **MLOps Shift Churn Engine** | Databricks Serverless, MLflow, Delta Feature Store | [**`databricks-caregiver-retention-mlops`**](https://github.com/brijesh-chudasama/databricks-caregiver-retention-mlops) | Proactive shift no-show & caregiver burnout prediction; point-in-time correct Delta features; registered MLflow model. |
+| **6** | **Clinical Policy GenAI (RAG)** | Azure AI Foundry SLM (Phi-4-mini), ChromaDB, Streamlit | [**`azure-ai-medicaid-policy-rag`**](https://github.com/brijesh-chudasama/azure-ai-medicaid-policy-rag) | Clinical RN voice copilot; HIPAA PHI sanitization; vector similarity search for Medicaid prior authorization compliance. |
 
 ---
 
