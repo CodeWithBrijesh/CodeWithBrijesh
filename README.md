@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-chudasama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijeshchudasama)
 [![GitHub](https://img.shields.io/badge/GitHub-brijesh--chudasama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brijesh-chudasama)
 
 <br/>
@@ -82,6 +82,6 @@ I am a **Data Engineer / Azure Data Engineer** with solid practical experience b
 <div align="center">
 
 **Open to discussions for Data Engineer / Azure Data Engineer roles.**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/brijesh-chudasama).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/brijeshchudasama).
 
 </div>
