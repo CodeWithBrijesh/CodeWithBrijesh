@@ -80,18 +80,6 @@ I am a **Data Engineer / Azure Data Engineer** with solid practical experience b
 
 ---
 
-## 📊 GitHub Profile Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=brijesh-chudasama&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Brijesh's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh-chudasama&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 <div align="center">
 
 **Open to discussions for Data Engineer / Azure Data Engineer roles.**  
